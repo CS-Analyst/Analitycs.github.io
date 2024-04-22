@@ -1,0 +1,49 @@
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #646464;
+}
+
+.nav {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.Log {
+    margin-right: 20px;
+    color: #ffffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a33d3d;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #646464;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.metric {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #646464;
+    border-radius: 5px;
+}
+
+.metric h2 {
+    margin: 0 0 10px;
+    font-size: 20px;
+}
+
+.metric p {
+    margin: 0;
+    font-size: 16px;
+}
