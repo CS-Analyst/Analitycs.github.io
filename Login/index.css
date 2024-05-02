@@ -21,9 +21,9 @@ img {
 
 form {
     background: #ffffff00;
-    margin-top: 200px;
+    margin-top: 270px;
     width: 300px;
-    height: 300px;
+    height: 400px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(10px);
@@ -47,12 +47,14 @@ input[type="password"] {
     box-sizing: border-box;
     text-align: center;
 }
+
 input[type="submit"] {
     background-color: #22282e;
     color: #fff;
     border: none;
     border-radius: 100px;
-    padding: 10px 20px;
+    padding: 10px 40px;
     cursor: pointer;
-    margin-left: 110px;
+    margin-left: 90px;
+    margin-top: 50px;
 }
